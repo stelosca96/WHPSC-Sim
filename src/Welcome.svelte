@@ -187,7 +187,7 @@
         </div>
         <div>
             <button class="btn" disabled="{powerMeterPaired}" on:click={btSearch}>BT powermeter</button>
-            <button class="btn" disabled="{powerMeterPaired}" on:click={() => alert('Download standalone version to use ANT+! https://github.com/policumbent/WHPSC-Sim/releases/tag/1.3.3')}>ANT powermeter</button>
+            <button class="btn" disabled="{powerMeterPaired}" on:click={() => alert('Download standalone version to use ANT+! https://github.com/stelosca96/WHPSC-Sim/releases/tag/1.3.3')}>ANT powermeter</button>
         </div>
         <Modal>
             <InstructionButton/>
@@ -217,6 +217,6 @@
             class="top-right-fixed click_t">
     <Icon  class="top-right-fixed" data={gear} scale="2.5" />
   </span>
-    <button class="left survey btn" on:click={() => window.open('https://github.com/policumbent/WHPSC-Sim/releases/tag/1.3.3','_blank')}><Icon data={download}/> Download APP</button>
-    <button class="right survey btn" on:click={() => window.open('https://github.com/policumbent/WHPSC-Sim/','_blank')}><Icon data={github}/> GitHub</button>
+    <button class="left survey btn" on:click={() => window.open('https://github.com/stelosca96/WHPSC-Sim/releases/tag/1.3.3','_blank')}><Icon data={download}/> Download APP</button>
+    <button class="right survey btn" on:click={() => window.open('https://github.com/stelosca96/WHPSC-Sim/','_blank')}><Icon data={github}/> GitHub</button>
 </section>
