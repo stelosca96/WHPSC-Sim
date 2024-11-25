@@ -58,7 +58,7 @@ Taurus | 1.4843*0.04 at 0.1 m/s; 1.0691*0.04 at 40 m/s | 0.0029 at 0.1 m/s;  0.0
 
 ## License
 
-[AGPL](https://github.com/policumbent/WHPSC-Sim/blob/master/LICENSE)
+[AGPL](https://github.com/stelosca96/WHPSC-Sim/blob/master/LICENSE)
 
 ## Contributors ✨
 
@@ -69,9 +69,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/stelosca96"><img src="https://avatars.githubusercontent.com/u/44433696?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefano Loscalzo</b></sub></a><br /><a href="https://github.com/policumbent/WHPSC-Sim/commits?author=stelosca96" title="Code">💻</a> <a href="#ideas-stelosca96" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/FelAcke"><img src="https://avatars.githubusercontent.com/u/57219703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FelAcke</b></sub></a><br /><a href="https://github.com/policumbent/WHPSC-Sim/commits?author=FelAcke" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/gabelluardo"><img src="https://avatars.githubusercontent.com/u/42920247?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriele Belluardo</b></sub></a><br /><a href="https://github.com/policumbent/WHPSC-Sim/commits?author=gabelluardo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/stelosca96"><img src="https://avatars.githubusercontent.com/u/44433696?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefano Loscalzo</b></sub></a><br /><a href="https://github.com/stelosca96/WHPSC-Sim/commits?author=stelosca96" title="Code">💻</a> <a href="#ideas-stelosca96" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/FelAcke"><img src="https://avatars.githubusercontent.com/u/57219703?v=4?s=100" width="100px;" alt=""/><br /><sub><b>FelAcke</b></sub></a><br /><a href="https://github.com/stelosca96/WHPSC-Sim/commits?author=FelAcke" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/gabelluardo"><img src="https://avatars.githubusercontent.com/u/42920247?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gabriele Belluardo</b></sub></a><br /><a href="https://github.com/stelosca96/WHPSC-Sim/commits?author=gabelluardo" title="Code">💻</a></td>
   </tr>
 </table>
 
