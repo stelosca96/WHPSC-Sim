@@ -61,8 +61,8 @@ export default {
 		}),
 		replace({
 			PRIVATE_MODE: true,
-			SERVER_RESULTS_URL: 'https://whpsc-sim-server.stefanoloscalzo.me/results.php',
-			SERVER_UPLOAD_URL: 'https://whpsc-sim-server.stefanoloscalzo.me/upload_result.php'
+			SERVER_RESULTS_URL: 'https://whpsc-sim-db.stefanoloscalzo.me/results.php',
+			SERVER_UPLOAD_URL: 'https://whpsc-sim-db.stefanoloscalzo.me/upload_result.php'
 		}),
 		commonjs(),
 		typescript({ sourceMap: !production }),
