@@ -20,7 +20,7 @@
     let powerMeterPaired = false;
     const title = 'WHPSC Simulator';
     const desc = 'Try a fast streamliner on Battle Mountain track.';
-    const url = 'https://www.policumbent.it/whpsc-sim/'
+    const url = 'https://whpsc-sim.stefanoloscalzo.me/'
     // const startTime = new Date(Date.UTC(2020, 9, 24, 13, 35, 0, 0));
     const startTime = new Date(Date.UTC(2020, 9, 25, 13, 0, 0, 0))
 
@@ -56,7 +56,7 @@
                     alert('An error has occurred! This functionality is available only in Google Chrome 83+. ' +
                         'If you are already using it on Linux the "chrome://flags/#enable-experimental-web-platform-features" flag must be enabled.' +
                         'For further information read this page https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md ' +
-                        'You can also download the standalone version from here https://github.com/policumbent/WHPSC-Sim/releases');
+                        'You can also download the standalone version from here https://github.com/stelosca96/WHPSC-Sim/releases');
                 console.log(error);
                 powerMeterPaired = false;
             })
@@ -187,7 +187,7 @@
         </div>
         <div>
             <button class="btn" disabled="{powerMeterPaired}" on:click={btSearch}>BT powermeter</button>
-            <button class="btn" disabled="{powerMeterPaired}" on:click={() => alert('Download standalone version to use ANT+! https://github.com/policumbent/WHPSC-Sim/releases/tag/1.3.3')}>ANT powermeter</button>
+            <button class="btn" disabled="{powerMeterPaired}" on:click={() => alert('Download standalone version to use ANT+! https://github.com/stelosca96/WHPSC-Sim/releases/tag/1.3.3')}>ANT powermeter</button>
         </div>
         <Modal>
             <InstructionButton/>
@@ -217,6 +217,6 @@
             class="top-right-fixed click_t">
     <Icon  class="top-right-fixed" data={gear} scale="2.5" />
   </span>
-    <button class="left survey btn" on:click={() => window.open('https://github.com/policumbent/WHPSC-Sim/releases/tag/1.3.3','_blank')}><Icon data={download}/> Download APP</button>
-    <button class="right survey btn" on:click={() => window.open('https://github.com/policumbent/WHPSC-Sim/','_blank')}><Icon data={github}/> GitHub</button>
+    <button class="left survey btn" on:click={() => window.open('https://github.com/stelosca96/WHPSC-Sim/releases/tag/1.3.3','_blank')}><Icon data={download}/> Download APP</button>
+    <button class="right survey btn" on:click={() => window.open('https://github.com/stelosca96/WHPSC-Sim/','_blank')}><Icon data={github}/> GitHub</button>
 </section>

@@ -19,18 +19,18 @@ To learn more about the event click [here](https://www.policumbent.it/en/whpsc/)
 
 This application uses a connection to your bluetooth power meter or smart trainer. This functionality is only available on Google Chrome 83+. Download the latest version here: [https://www.google.com/intl/en_en/chrome/](https://www.google.com/intl/en_en/chrome/)
 
-*If you have a slow internet connection we suggest you to download the standalone version from [here](https://github.com/policumbent/WHPSC-Sim/releases)*
+*If you have a slow internet connection we suggest you to download the standalone version from [here](https://github.com/stelosca96/WHPSC-Sim/releases)*
 
 #### Windows/MacOS/Android
 
-1. Go to [whpsc-sim.policumbent.it](https://whpsc-sim.policumbent.it/)
+1. Go to [whpsc-sim.stefanoloscalzo.me](https://whpsc-sim.stefanoloscalzo.me/)
 1. Connect your bluetooth power meter.
 1. Start a new run
 
 #### Linux
 
 1. On the Linux version of Chrome the bluetooth API is partially implemented ([see here](https://github.com/WebBluetoothCG/web-bluetooth/blob/gh-pages/implementation-status.md)). Please enable: `chrome://flags/#enable-experimental-web-platform-features`.
-1. Go to [whpsc-sim.policumbent.it](https://whpsc-sim.policumbent.it/)
+1. Go to [whpsc-sim.stefanoloscalzo.me](https://whpsc-sim.stefanoloscalzo.me/)
 1. Connect your bluetooth power meter.
 1. Start a new run
 
@@ -46,7 +46,7 @@ This application uses a connection to your bluetooth power meter or smart traine
     1. Select `ANT USBStick2`
     1. Select `libusb-win32 (v1.2.6.0)`
     1. Click on `Replace Driver` or `Downgrade Driver`
-1. Download last version of standalone application from [here](https://github.com/policumbent/WHPSC-Sim/releases)
+1. Download last version of standalone application from [here](https://github.com/stelosca96/WHPSC-Sim/releases)
 1. Insert the ANT+ dongle
 1. Start app and connect your ANT+ power meter
 
@@ -54,11 +54,11 @@ This application uses a connection to your bluetooth power meter or smart traine
 
 #### Linux/MacOS
 
-1. Download last version of standalone application from [here](https://github.com/policumbent/WHPSC-Sim/releases)
+1. Download last version of standalone application from [here](https://github.com/stelosca96/WHPSC-Sim/releases)
 1. Insert the ANT+ dongle
 1. Start app and connect your ANT+ power meter
 
-**For any problem or question contact [softwarer@policumbent.it](mailto:software@policumbent.it).**
+**For any problem or question contact [ste@stefanoloscalzo.me](mailto:ste@stefanoloscalzo.me).**
 
 ## Starting a race
 
