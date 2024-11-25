@@ -80,7 +80,7 @@ Dopo i 200 metri normalmente inizieresti a frenare lentamente, per non surriscal
 ## Concludere una gara
 
 Dopo aver concluso la tua gara ti sarà presentata una finestra per inserire i tuoi dettagli per l'inserimento nella lista dei risultati. Questo non è obbligatorio, ma se vuoi vantarti con i tuoi amici ti conviene mettere qualcosa! Puoi usare qualsiasi nome che vuoi, ma per favore sii corretto!
-L'unica cosa obbligatoria, principalmente per evitare abusi, è l'inserimento di un vero indirizzo email. Manderemo un mail a questo indirizzo mail e dovrai premere sul link ricevuto per l'inseriment nella lista dei risultati. Non abuseremo o pubblicheremo il tuo indirizzo mail, [visualizza la nostra politica sulla privacy](https://www.policumbent.it/whpsc-sim/GDPR.html).
+L'unica cosa obbligatoria, principalmente per evitare abusi, è l'inserimento di un vero indirizzo email. Manderemo un mail a questo indirizzo mail e dovrai premere sul link ricevuto per l'inseriment nella lista dei risultati. Non abuseremo o pubblicheremo il tuo indirizzo mail, [visualizza la nostra politica sulla privacy](https://www.whpsc-sim.stefanoloscalzo.me/GDPR.html).
 
 Una volta che il risultato sarà pubblicato potrai anche condividerlo su Facebook, Instagram e molti altri social.
 

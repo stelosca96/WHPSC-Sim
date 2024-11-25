@@ -77,7 +77,7 @@ After the final 200 meters you would normally stop pedalling and start to brake 
 
 ## Finishing a race
 
-After you have finished the race you will be presented with a window to enter your details for the results list. This is not compulsory, however if you want to brag to your friends you better put something in here! You can use any name that you want, please play nice! The one thing that is mandatory though, mainly to prevent abuse, is to enter a real email address. We will send you an email at this address with a link that you need to click on to publish your results. We will not abuse or publish this mail address [see our privacy policy](https://www.policumbent.it/whpsc-sim/GDPR.html).
+After you have finished the race you will be presented with a window to enter your details for the results list. This is not compulsory, however if you want to brag to your friends you better put something in here! You can use any name that you want, please play nice! The one thing that is mandatory though, mainly to prevent abuse, is to enter a real email address. We will send you an email at this address with a link that you need to click on to publish your results. We will not abuse or publish this mail address [see our privacy policy](https://www.whpsc-sim.stefanoloscalzo.me/GDPR.html).
 
 Once your results are published you can also share them on Facebook or Instagram. So please use these to share your results and get more people to know about our event!
 

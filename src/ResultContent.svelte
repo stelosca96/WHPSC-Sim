@@ -125,7 +125,7 @@
       <div class="gdpr formData">
         <input class="checkbox" required id="gdpr" type="checkbox">
         <span class="checkbox">I give my consent to the processing of my personal data.</span>
-        <a target="_blank" href="https://www.policumbent.it/whpsc-sim/GDPR.html">Read more.</a>
+        <a target="_blank" href="https://www.whpsc-sim.stefanoloscalzo.me/GDPR.html">Read more.</a>
       </div>
       <p class="error">{errorMex}</p>
       <input class="btn right" type="submit" value="Send" />
