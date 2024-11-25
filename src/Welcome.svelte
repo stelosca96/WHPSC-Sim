@@ -20,7 +20,7 @@
     let powerMeterPaired = false;
     const title = 'WHPSC Simulator';
     const desc = 'Try a fast streamliner on Battle Mountain track.';
-    const url = 'https://www.policumbent.it/whpsc-sim/'
+    const url = 'https://whpsc-sim.stefanoloscalzo.me/'
     // const startTime = new Date(Date.UTC(2020, 9, 24, 13, 35, 0, 0));
     const startTime = new Date(Date.UTC(2020, 9, 25, 13, 0, 0, 0))
 
