@@ -73,14 +73,14 @@
 <section>
     <h1>{get_language_id() === 'it' ? 'Istruzioni' : 'Instruction'}</h1>
     <h3>To learn more about technical aspects (code, aerodynamic and rolling resistances) visit
-        <a target="_blank" href="https://github.com/policumbent/WHPSC-Sim/#readme">GitHub page.
+        <a target="_blank" href="https://github.com/stelosca96/WHPSC-Sim/#readme">GitHub page.
             </a></h3>
     <div class="relative">
         <div class="left" on:click={() => getLanguageData('en')}>
             <Us round square size="40" />
         </div>
         <div class="center">
-            <a class="github" href="https://github.com/policumbent/WHPSC-Sim/#readme" target="_blank"><Icon data={github} scale="3" /></a>
+            <a class="github" href="https://github.com/stelosca96/WHPSC-Sim/#readme" target="_blank"><Icon data={github} scale="3" /></a>
         </div>
         <div class="right" on:click={() => getLanguageData('it')}>
             <It round square size="40" />
